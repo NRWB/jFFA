@@ -13,5 +13,11 @@ Created to help reference the some of the notable useful features of 1.7 nio and
 
 ## Example Usage
 ```
+javac FFA.java
 java FFA "path/to/target/" -1 false "path/to/log/file/output.txt"
+```
+also
+```
+javac FFA.java
+java FFA "C:\\Users\\NRWB\\Desktop\\some-folder\\" -1 true "C:\\Users\\NRWB\\Desktop\\some-folder-log.txt"
 ```
